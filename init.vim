@@ -6,6 +6,8 @@ call plug#begin('~/.config/nvim/autoload/')
 	Plug 'airblade/vim-gitgutter'
 	Plug 'mhartington/oceanic-next'
 	Plug 'ryanoasis/vim-devicons'
+	Plug 'leafgarland/typescript-vim'
+	Plug 'arrufat/vala.vim'
 call plug#end()
 
 set ruler
